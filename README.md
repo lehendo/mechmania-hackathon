@@ -1,1 +1,0 @@
-# mechmania-hackathon

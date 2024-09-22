@@ -1,0 +1,8 @@
+build
+engine
+**/__pycache__
+gamelogs
+debuglog
+debuglogs
+logs
+.vscode/
